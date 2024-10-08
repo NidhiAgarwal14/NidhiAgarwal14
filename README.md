@@ -36,32 +36,14 @@
 
 </div>
 
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Nidhi Agarwal'
-		current_work = 'Practicing Coding Skills'
-		hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Novels',
-        'Journalism',
-        'Travelling',
-        'Cooking & Baking',			
-        'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getState():
-		return Rajasthan()
-	
-	def Ambitions():
-		LearnSpanish()
-		VisitToEuropeonCountries()
-		FinishMyNovels()
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
- </div>
+### 👨🏻‍💻 &nbsp;About Me:
+
+💡 &nbsp;I'm a fresher in the industry and passionate about Software Engineering.My enthusiasm for coding and eagerness to learn new things is boundless.\
+💻 &nbsp;I'm currently working on a ChatApp as Flutter Developer(frontend-coder) and seeking for new opportunities.\
+✍️ &nbsp;Travelling,playing chess,reading novels,cooking or baking,journalism and watching animes/movies/webseries are my general hobbies.\
+🌱 &nbsp;My goal is to improve and leverage my skills to contribute to innovative projects that push my boundaries. I'd love to connect and learn from people's experiences.
+
+</div>
  <h2>:zany_face: Joke of the day</h2>
 <details>
     <summary>See joke</summary>
